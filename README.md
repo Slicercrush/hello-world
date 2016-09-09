@@ -1,3 +1,3 @@
 # hello-world
->> V1.0
+V1.0
 Prints "Hello World!" into the consile
